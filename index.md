@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Martin Arvidsson
-subtitle: Doctral student at Linköping University, Sweden
+subtitle: Doctoral student at Linköping University, Sweden
 use-site-title: true
 ---
 
