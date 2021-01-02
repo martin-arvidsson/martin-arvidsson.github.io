@@ -222,7 +222,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - feed.html
+  - feed.xml
 
 plugins:
   - jekyll-paginate
