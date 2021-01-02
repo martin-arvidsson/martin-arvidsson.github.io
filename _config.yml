@@ -42,11 +42,11 @@ social-network-links:
   email: "martin.arvidsson@liu.se"
   #facebook: deanattali
   github: martin-arvidsson
-  twitter: https://twitter.com/arvidmartin
+  twitter: arvidmartin
   #patreon: DeanAttali
   #youtube: c/daattali
 #  reddit: yourname
-linkedin: https://www.linkedin.com/in/martin-arvidsson-7b4763a7/
+linkedin: martin-arvidsson-7b4763a7
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,7 +60,7 @@ linkedin: https://www.linkedin.com/in/martin-arvidsson-7b4763a7/
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-google-scholar: https://scholar.google.com/citations?user=RAxs8lIAAAAJ&hl=sv
+#google-scholar: https://scholar.google.com/citations?user=RAxs8lIAAAAJ&hl=sv
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -70,9 +70,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
