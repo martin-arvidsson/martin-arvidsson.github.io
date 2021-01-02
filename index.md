@@ -13,7 +13,7 @@ I am currently a doctoral student in Analytical Sociology at the [Institute for 
 
 #### Research Interests
 
-Social interactions and contagion, Computational Social Science, Social Networks, Causal Inference, Textual Analysis
+Social Interactions and Aggregation Processes, Computational Social Science, Probabilistic Machine Learning, Networks, Causal Inference, Textual Analysis.
 
 #### Education
 2017- Ph.D. in Analytical Sociology, Linköping University, Sweden. Supervised by [Peter Hedström](https://liu.se/medarbetare/pethe05/) and [Marc Keuschnigg](https://keuschnigg.org/).<br/>
