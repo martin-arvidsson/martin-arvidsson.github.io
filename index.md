@@ -13,7 +13,7 @@ I am currently a postdoc at the [Institute for Analytical Sociology](https://liu
 
 #### Research interests
 
-Much of my research centers on how individuals come to influence one another, and how individuals in interaction bring about different collective outcomes (e.g., segregation, inequality). In this research, I combine the principles of analytical sociology with the tools and data from computational social science.
+Much of my research centers on how individuals come to influence one another, and how individuals in interaction bring about different collective outcomes (e.g., segregation, inequality). In this research, I combine the explanatory principles of analytical sociology with the tools and data from computational social science.
 
 #### Recent publications
 
