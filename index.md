@@ -13,7 +13,7 @@ I am currently a postdoc at the [Institute for Analytical Sociology](https://liu
 
 #### Research Interests
 
-Much of my research centers on how individuals come to influence on another, and how individuals in interaction bring about different collective outcomes (e.g., segregation, inequality). In this research, I combine the principles of analytical sociology with the tools and data from computational social science.
+Much of my research centers on how individuals come to influence one another, and how individuals in interaction bring about different collective outcomes (e.g., segregation, inequality). In this research, I combine the principles of analytical sociology with the tools and data from computational social science.
 
 #### Education
 2017-2022 Ph.D. in Analytical Sociology, Linköping University, Sweden. Supervised by [Peter Hedström](https://liu.se/en/employee/pethe05) and [Marc Keuschnigg](https://keuschnigg.org/).<br/>
