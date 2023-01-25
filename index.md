@@ -15,7 +15,7 @@ Much of my research centers on how individuals come to influence one another, an
 
 In May 2022, I defended my dissertation, [Beyond Generative Sufficiency: On Interactions, Heterogeneity, and Middle-Range Dynamics](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651745&dswid=-7881). A big thanks to my opponent (Duncan Watts) and the committee (David Garcia, Ridhi Kashyap, Michael Mäs, and Roberta Sinatra).
 
-Together with Peter Hedström and Francois Collet, we received the [Rokert-K-Merton-Award in 2022](https://analyticalsociology.com/about/the-merton-award).
+Together with Peter Hedström and Francois Collet, we received the [Rokert-K-Merton-Award](https://analyticalsociology.com/about/the-merton-award) in 2022.
 
 #### Recent publications
 
