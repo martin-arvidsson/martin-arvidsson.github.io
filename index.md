@@ -17,13 +17,13 @@ Much of my research centers on how individuals come to influence one another, an
 
 #### Recent publications
 
-"Urban Scaling Laws Arise from Within-city Inequalities." <i>Nature Human Behavior<\i> (2023).
+"Urban Scaling Laws Arise from Within-city Inequalities." <i>Nature Human Behavior</i> (2023).
   
-"On the Intersection of Analytical Sociology and Computational Social Science." <i>Handbook of Computational Social Science<\i> edited by Taha Yasseri, Edward Elgar Publishing Ltd (forthcoming, 2023).
+"On the Intersection of Analytical Sociology and Computational Social Science." <i>Handbook of Computational Social Science</i> edited by Taha Yasseri, Edward Elgar Publishing Ltd (forthcoming, 2023).
 
-"The Trojan-horse mechanism: How networks reduce gender segregation." <i>Science Advances<\i> (2021).
+"The Trojan-horse mechanism: How networks reduce gender segregation." <i>Science Advances</i> (2021).
 
- "Interpretable Word Embeddings via Informative Priors." <i>EMNLP<\i> (2019).
+ "Interpretable Word Embeddings via Informative Priors." <i>EMNLP</i> (2019).
   
 
 #### Education
