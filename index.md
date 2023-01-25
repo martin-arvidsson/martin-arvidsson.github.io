@@ -11,9 +11,11 @@ use-site-title: true
 
 I am currently a postdoc at the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias).
 
-#### Research interests
-
 Much of my research centers on how individuals come to influence one another, and how individuals in interaction bring about different collective outcomes (e.g., segregation, inequality). In this research, I combine the explanatory principles of analytical sociology with the tools and data from computational social science.
+
+In May 2022, I defended my dissertation, [Beyond Generative Sufficiency: On Interactions, Heterogeneity, and Middle-Range Dynamics](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651745&dswid=-7881). A big thanks to my opponent (Duncan Watts) and the committee (David Garcia, Ridhi Kashyap, Michael Mäs, and Roberta Sinatra).
+
+Together with Peter Hedström and Francois Collet, we received the [Rokert-K-Merton-Award in 2022](https://analyticalsociology.com/about/the-merton-award).
 
 #### Recent publications
 
