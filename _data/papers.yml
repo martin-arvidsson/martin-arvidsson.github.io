@@ -18,16 +18,16 @@
 
 - title: "On the Intersection of Analytical Sociology and Computational Social Science"
   authors: "Martin Arvidsson, Peter Hedström, Benjamin F. Jarvis, Marc Keuschnigg"
-  venue: "Handbook of Computational Social Science (preprint)"
+  venue: "Handbook of Computational Social Science"
   year: 2024
   url: "https://osf.io/4h5ys_v1/"
   pdf: "https://files.osf.io/v1/resources/4h5ys/providers/osfstorage/665f1bf66b6c8e248704ccb8?action=download&direct=&format=pdf&version=1"
-  image: "/assets/img/papers/analytical-css-2024.jpeg"
+  image: "/assets/img/papers/analytical-css.jpeg"
   blurb: "Proposes a way for bridging the explanatory principles of AS with the research designs of CSS."
 
 - title: "Estimating social influence using machine learning and digital trace data"
   authors: "Martin Arvidsson, Marc Keuschnigg"
-  venue: "The Oxford Handbook of the Sociology of Machine Learning (chapter)"
+  venue: "The Oxford Handbook of the Sociology of Machine Learning"
   year: 2024
   url: "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1904645"
   image: "/assets/img/papers/social-influence-2024.jpeg"
