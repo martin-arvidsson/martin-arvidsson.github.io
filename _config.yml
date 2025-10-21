@@ -14,8 +14,9 @@ author: Martin Arvidsson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  News: "news"
+  #News: "news"
   Research: "research"
+  Teaching: "teaching"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
