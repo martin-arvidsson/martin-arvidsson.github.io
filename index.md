@@ -19,14 +19,15 @@ Together with Peter Hedström and Francois Collet, we received the [Rokert-K-Mer
 
 #### Recent publications
 
+"Wide Social Influence and the Emergence of the Unexpected: An Empirical Test Using Spotify Data." <i>Sociological Science</i> (2025).
+
+"Ethnic preferences, opportunity structures, and the school segregation process." <i>European Sociological Review</i> (2025).
+
+"On the Intersection of Analytical Sociology and Computational Social Science." <i>Handbook of Computational Social Science</i> (2025).
+
+"Estimating Social Influence Using Machine Learning and Digital Trace Data." <i>The Oxford Handbook of the Sociology of Machine Learning</i> (2024).
+
 "Urban Scaling Laws Arise from Within-city Inequalities." <i>Nature Human Behavior</i> (2023).
-  
-"On the Intersection of Analytical Sociology and Computational Social Science." <i>Handbook of Computational Social Science</i> edited by Taha Yasseri, Edward Elgar Publishing Ltd (forthcoming, 2023).
-
-"The Trojan-horse mechanism: How networks reduce gender segregation." <i>Science Advances</i> (2021).
-
- "Interpretable Word Embeddings via Informative Priors." <i>EMNLP</i> (2019).
-  
 
 #### Education
 2017-2022 Ph.D. in Analytical Sociology, Linköping University, Sweden. Supervised by [Peter Hedström](https://liu.se/en/employee/pethe05) and [Marc Keuschnigg](https://keuschnigg.org/).<br/>
