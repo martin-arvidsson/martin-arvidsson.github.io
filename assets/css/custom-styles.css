@@ -9,7 +9,11 @@ body {
 }
 
 /* Headings: modern, responsive sizes */
-h1 { font-size: clamp(2rem, 4.5vw, 2.6rem); font-weight: 700; letter-spacing: -0.01em; }
+h1 { 
+  font-size: clamp(2rem, 4.5vw, 2.6rem); 
+  font-weight: 500;                        /* was 700 -> lighter globally */
+  letter-spacing: -0.01em; 
+}
 h2 { font-size: clamp(1.5rem, 3.2vw, 2rem);  margin-top: 2rem; }
 h3 { font-size: 1.25rem; }
 
@@ -22,11 +26,12 @@ h3 { font-size: 1.25rem; }
 /* Footer slightly smaller so it doesn’t compete */
 footer { font-size: 0.9rem; }
 
-/* Tighter title spacing and smaller title */
-.page-heading { margin-bottom: 1.25rem; 
-                font-size: clamp(1.8rem, 3.0vw, 2.2rem);
-                letter-spacing: -0.01em;
-              }
+/* Tighter title spacing and smaller title on pages (incl. homepage) */
+.page-heading { 
+  margin-bottom: 1.25rem; 
+  font-size: clamp(1.8rem, 3.0vw, 2.2rem);
+  letter-spacing: -0.01em;
+}
 
 /* --- Research grid --- */
 .pub-grid {
@@ -48,3 +53,14 @@ footer { font-size: 0.9rem; }
 .pub-title { font-size: 1.1rem; margin: 0 0 0.25rem; line-height: 1.35; }
 .pub-authors, .pub-venue, .pub-links { margin: 0.25rem 0; }
 .pub-blurb { margin-top: 0.5rem; }
+
+/* ---- NEW: make ALL big titles lighter site-wide ----
+   This catches theme selectors used on pages and posts.
+   !important ensures it wins even if the theme loads after this file. */
+.page-heading,
+.page-title,
+.post-title,
+.post-heading h1,
+h1 {
+  font-weight: 500 !important;
+}
