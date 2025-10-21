@@ -54,13 +54,16 @@ footer { font-size: 0.9rem; }
 .pub-authors, .pub-venue, .pub-links { margin: 0.25rem 0; }
 .pub-blurb { margin-top: 0.5rem; }
 
-/* ---- NEW: make ALL big titles lighter site-wide ----
-   This catches theme selectors used on pages and posts.
-   !important ensures it wins even if the theme loads after this file. */
+/* Smaller big titles everywhere (homepage + pages + posts) */
 .page-heading,
+.post-heading h1,
 .page-title,
 .post-title,
-.post-heading h1,
-h1 {
-  font-weight: 400 !important;
+.post-content h1:first-of-type,
+.page-content .post-content h1:first-of-type,
+#intro-header .page-heading h1 {
+  font-size: clamp(1.6rem, 2.4vw, 2.05rem) !important; /* smaller, mansmeg-like */
+  font-weight: 500 !important;  /* keep the lighter weight */
+  letter-spacing: -0.01em;
+  margin-bottom: 0.25rem;
 }
