@@ -1,0 +1,61 @@
+- title: "Wide Social Influence and the Emergence of the Unexpected: An Empirical Test Using Spotify Data"
+  authors: "Martin Arvidsson, Peter Hedström, Marc Keuschnigg"
+  venue: "Sociological Science"
+  year: 2025
+  url: "https://sociologicalscience.com/articles-v12-29-715/"
+  pdf: "https://sociologicalscience.com/articles-v12-29-715/"
+  image: "/assets/img/papers/wide-social-influence-2025.jpg"
+  blurb: "Identifies conditions under which social influence generates unexpected collective outcomes."
+
+- title: "Ethnic preferences, opportunity structures, and the school segregation process"
+  authors: "Selcan Mutgan, Peter Hedström, Martin Arvidsson"
+  venue: "European Sociological Review"
+  year: 2025
+  url: "https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaf027/8158256/"
+  pdf: "https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaf027/8158256/"
+  image: "/assets/img/papers/school-seg-2025.jpg"
+  blurb: "Shows that while ethnicity-related school preferences exist, they have little impact on ethnic segregation because the schools that students move between tend to have similar ethnic compositions."
+
+- title: "On the Intersection of Analytical Sociology and Computational Social Science"
+  authors: "Martin Arvidsson, Peter Hedström, Benjamin F. Jarvis, Marc Keuschnigg"
+  venue: "Handbook of Computational Social Science (preprint)"
+  year: 2024
+  url: "https://osf.io/4h5ys_v1/"
+  pdf: "https://files.osf.io/v1/resources/4h5ys/providers/osfstorage/665f1bf66b6c8e248704ccb8?action=download&direct=&format=pdf&version=1"
+  image: "/assets/img/papers/analytical-css-2024.jpg"
+  blurb: "Proposes a way for bridging the explanatory principles of AS with the research designs of CSS."
+
+- title: "Estimating social influence using machine learning and digital trace data"
+  authors: "Martin Arvidsson, Marc Keuschnigg"
+  venue: "The Oxford Handbook of the Sociology of Machine Learning (chapter)"
+  year: 2024
+  url: "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1904645"
+  image: "/assets/img/papers/social-influence-2024.jpg"
+  blurb: "Reviews strategies for estimating social influence influence effects using modern, large-scale data together with machine learning."
+  
+- title: "Urban scaling laws arise from within-city inequalities"
+  authors: "Martin Arvidsson, Niclas Lovsjö, Marc Keuschnigg"
+  venue: "Nature Human Behaviour"
+  year: 2023
+  url: "https://pubmed.ncbi.nlm.nih.gov/36702938/"
+  pdf: "https://www.nature.com/articles/s41562-022-01509-1"
+  image: "/assets/img/papers/urban-scaling-2023.jpg"
+  blurb: "Shows that a large fraction of observed between-city inequalities is explained by the distributional 'tails' of large cities."
+
+- title: "The Trojan-horse mechanism: How networks reduce gender segregation"
+  authors: "Martin Arvidsson, François Collet, Peter Hedström"
+  venue: "Science Advances"
+  year: 2021
+  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8051882/"
+  pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8051882/pdf"
+  image: "/assets/img/papers/trojan-horse-2021.jpg"
+  blurb: "Identifies a mechanism which shows how network mobility can somestimes have desegregating effects."
+  
+- title: "Interpretable Word Embeddings via Informative Priors"
+  authors: "Miriam Hurtado Bodell*, Martin Arvidsson*, Måns Magnusson (*shared first authorship)"
+  venue: "EMNLP"
+  year: 2019
+  url: "https://aclanthology.org/D19-1661/"
+  pdf: "https://arxiv.org/pdf/1909.01459"
+  image: "/assets/img/papers/interpretable-embeddings-2019.jpg"
+  blurb: "Proposes a new method, using informative Bayesian priors, for creating domain-informed, interpretable embedding dimensions."
