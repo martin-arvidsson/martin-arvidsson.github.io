@@ -1,17 +1,23 @@
 ---
 layout: page
 title: Research
+permalink: /research/
 ---
 
-#### Published
-
-**Martin Arvidsson**, François Collet, and Peter Hedström. *The Trojan-horse mechanism: how networks reduce gender segregation*. Science Advances, 2021. <br/>
-[journal](https://advances.sciencemag.org/content/7/16/eabf6730) <br/>
-
-Miriam Hurtado Bodell\*, **Martin Arvidsson**\*, and Måns Magnusson. *Interpretable word embeddings via informative priors*. Emprical Methods in Natural Language Processing, 2019. <br/>
-[arXiv](https://arxiv.org/abs/1909.01459) | [proceedings](https://www.aclweb.org/anthology/D19-1661.pdf) <br/>
-
-\* *Shared first authorship*
- 
-
-
+<div class="pub-grid">
+{% for p in site.data.papers %}
+  <article class="pub-card">
+    {% if p.image %}<a href="{{ p.url }}"><img src="{{ p.image | relative_url }}" alt="{{ p.title }}"></a>{% endif %}
+    <div class="pub-body">
+      <h3 class="pub-title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+      <p class="pub-authors">{{ p.authors }}</p>
+      <p class="pub-venue">{{ p.venue }}{% if p.year %} ({{ p.year }}){% endif %}</p>
+      {% if p.blurb %}<p class="pub-blurb">{{ p.blurb }}</p>{% endif %}
+      <p class="pub-links">
+        <a href="{{ p.url }}">Link</a>
+        {% if p.pdf %} · <a href="{{ p.pdf }}">PDF</a>{% endif %}
+      </p>
+    </div>
+  </article>
+{% endfor %}
+</div>
