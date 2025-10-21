@@ -13,10 +13,9 @@ permalink: /research/
       <p class="pub-authors">{{ p.authors }}</p>
       <p class="pub-venue">{{ p.venue }}{% if p.year %} ({{ p.year }}){% endif %}</p>
       {% if p.blurb %}<p class="pub-blurb">{{ p.blurb }}</p>{% endif %}
-      <p class="pub-links">
-        <a href="{{ p.url }}">Link</a>
-        {% if p.pdf %} · <a href="{{ p.pdf }}">PDF</a>{% endif %}
-      </p>
+      {% if p.preprint %}
+        <p class="pub-links"><a href="{{ p.preprint }}">Preprint</a></p>
+      {% endif %}
     </div>
   </article>
 {% endfor %}
